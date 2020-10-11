@@ -8,6 +8,9 @@ using System.Threading;
 
 namespace SimpleLogger
 {
+    /// <summary>
+    /// Simple Loggging Demo to demonstrate NLog vs Log4Net and How to easily switch between the two.
+    /// </summary>
     class Program
     {
         static void Main(string[] args)
